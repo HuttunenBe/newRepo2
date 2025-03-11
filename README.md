@@ -3,7 +3,8 @@ Steps for this task:
 - create folder
 - create new Github repository
 - add readme file
-- connect 
+- connect
+- 
 
 - make changes in local 
 -> push (git status, git add ., git commit -m"", git push origin master)
