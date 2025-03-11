@@ -12,7 +12,7 @@ Steps for this task:
 -> pull (git pull origin master)
 - Push once again
 
-- Solve merge!! (if needed can be fixed from files >>>>)
+- Solve merge!! (if needed can be fixed from files >>>>)(git status, git add _____, git commit -m"", git push origin master, git status)
 - update readme 
 
 
