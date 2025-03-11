@@ -18,7 +18,7 @@ Steps for this task:
 How to avoid merge conflict? (git status,)
 
 - Use only local so that when you push there won't be changes in repository
-- always pull first just to be sure. there might be changes. 
+- always pull first just to be sure. there might be changes.  
 
 
 - remember to not use init everytime
